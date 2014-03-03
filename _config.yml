@@ -1,0 +1,18 @@
+title: The dynamic site is dead
+description: catchy description
+
+exclude:
+  - script
+  - ".gitignore"
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+  - node_modules
+  - ".sass-cache"
+  - "package.json"
+  - "*.scss"
+  - "*.coffee"
+  - "*.less"
+  - src
+pygments: true
+markdown: kramdown
