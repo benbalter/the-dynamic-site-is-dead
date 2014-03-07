@@ -11,3 +11,12 @@ h3 {font-size: 1.3em;}
 h4 {font-size: 1.2em;}
 h5 {font-size: 1.1em;}
 h6 {font-size: 1em;}
+
+img { width: 100%;}
+
+ul {
+  font-size: .5em;
+}
+
+li {display: block; padding: .5em 0;}
+li em {display: block;}

@@ -2,10 +2,10 @@
 hide_title: true
 ---
 
-## Things to consider
+## How to get started
 
-- Great for sites that don't update frequently
-- Tools like polish / ease of use
-- Forces parts of the workflow 'offline'
-- Content owners may miss safety nets
-- Learning curve
+- Learn markdown: http://guides.github.com/overviews/mastering-markdown/
+- Understanding open collaboration: http://guides.github.com/overviews/flow/
+- Jekyll: http://jekyllrb.com/docs/quickstart/
+- Pages: http://pages.github.com
+- Hack this presentation! https://github.com/benbalter/the-dyanmic-site-is-dead

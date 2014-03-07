@@ -2,4 +2,4 @@
 hide_title: true
 ---
 
-Prose image slide
+![slide image](/images/process.png)
