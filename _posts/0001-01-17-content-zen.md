@@ -2,4 +2,4 @@
 hide_title: true
 ---
 
-zen mode slide
+![slide image](/images/zen.png)

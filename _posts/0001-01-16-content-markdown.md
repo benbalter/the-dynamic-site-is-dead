@@ -2,4 +2,4 @@
 hide_title: true
 ---
 
-markdown slide
+![slide image](/images/markdown.png)
