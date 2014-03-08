@@ -1,8 +1,6 @@
 html, body {background: none; background: #fff;}
 
 html {
-  background: url(../images/background.png) no-repeat center center fixed !important;
-
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -40,3 +38,6 @@ li em {display: block;}
 
 .language-markdown { font-size: .5em; font-family: Inconsolata; display: block; line-height: 1em; word-wrap: break-word; margin-top: 50px; }
 .hashtag {position: absolute; bottom: 25px; right: 25px; font-size: 1.5em; }
+
+#background { position: absolute: z-index: -1; opacity: .1; top: 0; left: 0; }
+#background img { height: 100%; width: 100%; margin: 0; }
