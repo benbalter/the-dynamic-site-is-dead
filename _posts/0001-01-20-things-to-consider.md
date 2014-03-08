@@ -1,8 +1,5 @@
 ---
-hide_title: true
 ---
-
-## Things to consider
 
 - Great for sites that don't update frequently
 - Tools like polish / ease of use

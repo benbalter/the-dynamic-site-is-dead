@@ -1,8 +1,5 @@
 ---
-hide_title: true
 ---
-
-## How to get started
 
 - Learn markdown: [guides.github.com/overviews/mastering-markdown](http://guides.github.com/overviews/mastering-markdown/)
 - Understanding open collaboration: [guides.github.com/overviews/flow](http://guides.github.com/overviews/flow/)
