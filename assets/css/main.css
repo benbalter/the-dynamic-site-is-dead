@@ -39,3 +39,4 @@ li em {display: block;}
 .step {width: 1100px; padding: 0;}
 
 .language-markdown { font-size: .5em; font-family: Inconsolata; display: block; line-height: 1em; word-wrap: break-word; margin-top: 50px; }
+.hashtag {position: absolute; bottom: 25px; right: 25px; font-size: 1.5em; }

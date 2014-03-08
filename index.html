@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="assets/vendor/impress.js/css/impress-demo.css">
         <link rel="stylesheet" href="assets/css/pygments.css">
         <link rel="stylesheet" href="assets/css/main.css">
-        
+
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800' rel='stylesheet' type='text/css'>
 
     </head>
@@ -37,6 +37,9 @@
                 {% if page.notes %}{% for note in page.notes %}<div class="notes">{{ note }}</div>{% endfor %}{% endif %}
               </div>
             {% endfor %}
+          </div>
+          <div class="hashtag">
+            #{{ site.hashtag }}
           </div>
         </div> <!-- /container -->
 
