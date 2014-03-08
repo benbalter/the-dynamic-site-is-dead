@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "homepage": "https://github.com/benbalter/the-dyanmic-site-is-dead",
   "authors": [
-    "Ben Balter <ben.balter@github.com>"
+    "Ben Balter <ben.balter@github.com>",
+    "Danny Chapman <danny@ducstudio.com>"
   ],
   "license": "MIT",
   "dependencies": {
