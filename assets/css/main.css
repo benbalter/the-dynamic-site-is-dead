@@ -1,8 +1,8 @@
 html, body {background: none; background: #fff;}
 
 html {
-  background: url(../images/background.png) no-repeat center center fixed !important; 
-  
+  background: url(../images/background.png) no-repeat center center fixed !important;
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -11,12 +11,12 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  padding: 0; 
-  margin: 0 0 .5em; 
+  padding: 0;
+  margin: 0 0 .5em;
   line-height: 1.2em;
   font-weight: 300;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-} 
+}
 
 p {font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight: 300; font-size: .8em;}
 
@@ -37,3 +37,5 @@ li {display: block; padding: .5em 0;}
 li em {display: block;}
 
 .step {width: 1100px; padding: 0;}
+
+.language-markdown { font-size: .5em; font-family: Inconsolata; display: block; line-height: 1em; word-wrap: break-word; }
