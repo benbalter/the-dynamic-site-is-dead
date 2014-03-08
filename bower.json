@@ -7,7 +7,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "league-gothic": "~1.0.0",
     "impress.js": "~0.5.3",
     "emojify.js": "*"
   }
