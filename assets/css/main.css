@@ -47,3 +47,6 @@ li em {display: block;}
 .flow-block.title h3 { margin-left: auto; margin-right: auto; position: relative; }
 .flow-block ul { margin-left: auto; margin-right: auto; }
 .flow-block ul li { display: inline-block; margin-left: 25px; border: 1px solid #ccc; padding: 5px; }
+
+.participant { width: 50%; float: left; text-align: center; margin-bottom: 10px; }
+.participant img { width: 25%; margin: 0;  }
