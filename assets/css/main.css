@@ -41,8 +41,8 @@ li em {display: block;}
 #background img { height: 100%; width: 100%; margin: 0; }
 
 .flow-block { width: 100%; border: 1px solid #ccc; margin-bottom: 10px;  background: rgba(255,255,255,.8); text-align: center; padding: .1em .2em; font-size: .8em;  }
-.flow-block h3 { font-size: .5em; left: 5px; margin-top: 10px; position: absolute; font-weight: bold; }
+.flow-block h3 { font-size: .5em; left: 5px; margin-top: 10px; position: absolute; font-weight: bold; color: #2c915e; }
 .flow-block.title {background: rgba(0,0,0,.6); color: #fff;}
-.flow-block.title h3 { margin-left: auto; margin-right: auto; position: relative; }
+.flow-block.title h3 { margin-left: auto; margin-right: auto; position: relative; color: #fff; }
 .flow-block ul { margin-left: auto; margin-right: auto; }
-.flow-block ul li { display: inline-block; margin-left: 25px; border: 1px solid #ccc; background: #eee; padding: 5px; }
+.flow-block ul li { display: inline-block; margin-left: 25px; border: 1px solid #2c915e; background: #eee; padding: 5px; }
