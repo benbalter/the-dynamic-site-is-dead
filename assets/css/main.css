@@ -34,15 +34,15 @@ li em {display: block;}
 
 .step {width: 1100px; padding: 0;}
 
-.language-markdown { font-size: .5em; font-family: Inconsolata; display: block; line-height: 1em; word-wrap: break-word; margin-top: 50px; }
-.hashtag {position: absolute; bottom: 25px; right: 25px; font-size: 1.5em; }
+.language-markdown { font-size: .5em; font-family; display: block; line-height: 1em; word-wrap: break-word; margin-top: 50px; }
+.hashtag {position: absolute; bottom: 25px; right: 25px; font-size: 1.5em; color: #359BBA; }
 
 #background { position: absolute: z-index: -1; opacity: .05; top: 0; left: 0; }
 #background img { height: 100%; width: 100%; margin: 0; }
 
 .flow-block { width: 100%; border: 1px solid #ccc; margin-bottom: 10px;  background: rgba(255,255,255,.8); text-align: center; padding: .1em .2em; font-size: .8em;  }
 .flow-block h3 { font-size: .5em; left: 5px; margin-top: 10px; position: absolute; font-weight: bold; }
-.flow-block.title {background: rgba(0,0,0,.6); color: #fff;}
+.flow-block.title {background: rgba(0,0,0,.6); color: #fff; background: #359BBA;}
 .flow-block.title h3 { margin-left: auto; margin-right: auto; position: relative; }
 .flow-block ul { margin-left: auto; margin-right: auto; }
 .flow-block ul li { display: inline-block; margin-left: 25px; border: 1px solid #ccc; padding: 5px; }
@@ -50,3 +50,9 @@ li em {display: block;}
 
 .participant { width: 50%; float: left; text-align: center; margin-bottom: 10px; }
 .participant img { width: 25%; margin: 0;  }
+
+h5 {font-size: .85em; margin: 0; padding: 0 0 .15em 0; line-height: 0;}
+.twitter {font-size: .6em; background: none;}
+.twitter a {background: none; text-shadow: none; color: #359BBA;}
+
+a {background: none; text-shadow: none; color: #359BBA; font-weight: bold;}
