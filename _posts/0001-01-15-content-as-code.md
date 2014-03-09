@@ -1,19 +1,19 @@
 ---
 ---
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### User
 </div>
 
-<div class="flow-block title">
+<div class="flow-block title" markdown="1">
 ### Site generator (optional)
 </div>
 
-<div class="flow-block title">
+<div class="flow-block title" markdown="1">
 ### Merge
 </div>
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### Collaborators
 
 * Review
@@ -21,7 +21,7 @@
 * Propose improvements
 </div>
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### Subject matter experts
 
 * Create branch
@@ -30,7 +30,7 @@
 * Pull request
 </div>
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### Designers/developers
 
 * Templates

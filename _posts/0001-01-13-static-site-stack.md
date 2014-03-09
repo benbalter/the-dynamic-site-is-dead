@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### Browser
 
 * HTML
@@ -9,17 +9,17 @@
 * Javascript
 </div>
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### File server
 
 * Nginx/S3/CDN
 </div>
 
-<div class="flow-block title">
+<div class="flow-block title" markdown="1">
 ### Site generator (optional)
 </div>
 
-<div class="flow-block">
+<div class="flow-block" markdown="1">
 ### Content/code
 
 * Version control
