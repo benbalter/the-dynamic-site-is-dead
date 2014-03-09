@@ -49,10 +49,10 @@ li em {display: block;}
 .flow-block ul li { display: inline-block; margin-left: 25px; border: 1px solid #ccc; background: #eee; padding: 5px; }
 
 .participant { width: 50%; float: left; text-align: center; margin-bottom: 10px; }
-.participant img { width: 25%; margin: 0;  }
+.participant img { width: 25%; margin: 0; border: 2px solid #fff;  }
 
-h5 {font-size: .85em; margin: 0; padding: 0 0 .15em 0; line-height: 0;}
-.twitter {font-size: .6em; background: none;}
-.twitter a {background: none; text-shadow: none; color: #359BBA;}
+h5 {font-size: .85em; margin: 0; padding: 0 0 .1em 0; line-height: 0;}
+.twitter {font-size: .6em; background: none; margin-bottom: .75em;}
+.twitter a {background: none; text-shadow: none; color: #359BBA; font-weight: normal;}
 
 a {background: none; text-shadow: none; color: #359BBA; font-weight: bold;}
