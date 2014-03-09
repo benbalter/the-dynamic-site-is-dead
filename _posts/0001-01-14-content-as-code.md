@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="flow-block" markdown="1">
+<div class="flow-block title" markdown="1">
 ### User
 </div>
 
