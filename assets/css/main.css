@@ -54,7 +54,7 @@ li em {display: block;}
 .participant img { width: 25%; margin: 0; border: 2px solid #fff;  }
 
 h5 {font-size: .85em; margin: 0; padding: 0 0 .1em 0; line-height: 0;}
-.twitter {font-size: .6em; background: none; margin-bottom: .75em;}
+.twitter {font-size: .5em; background: none; margin-bottom: .75em; font-family: 'Open Sans', Helvetica, Arial, sans-serif;}
 .twitter a {background: none; text-shadow: none; color: #359BBA; font-weight: normal;}
 
 a {background: none; text-shadow: none; color: #359BBA; font-weight: bold;}
