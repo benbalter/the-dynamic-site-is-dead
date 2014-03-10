@@ -18,5 +18,5 @@ Review &rarr; Propose &rarr; Discuss
 </div>
 
 <div class="flow-block title" markdown="1">
-Publish
+### Publish
 </div>
