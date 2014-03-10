@@ -26,6 +26,11 @@
 * Theme
 * Plugins
 </div>
+
+<div class="flow-block title" markdown="1">
+### Object Cache
+</div>
+
 <div class="flow-block" markdown="1">
 ### Front End
 
@@ -43,10 +48,6 @@
 
 * MySQL
 * Master/Slaves
-</div>
-
-<div class="flow-block title" markdown="1">
-### Object Cache
 </div>
 
 <div class="flow-block" markdown="1">
