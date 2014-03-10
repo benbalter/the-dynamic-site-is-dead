@@ -45,10 +45,8 @@
 * Master/Slaves
 </div>
 
-<div class="flow-block" markdown="1">
+<div class="flow-block title" markdown="1">
 ### Object Cache
-
-* Memcache/Redis
 </div>
 
 <div class="flow-block" markdown="1">
