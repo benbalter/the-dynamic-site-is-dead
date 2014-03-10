@@ -27,7 +27,7 @@ h6 {font-size: 1em;}
 
 img { width: 100%; margin: 1em auto;}
 
-ul {font-size: .5em;}
+ul {font-size: .5em; font-family: 'Open Sans', Helvetica, Arial, sans-serif;}
 
 li {display: block; padding: .5em 0;}
 li em {display: block;}
